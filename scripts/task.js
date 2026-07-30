@@ -22,6 +22,7 @@ class Task{
         this.date = date;
         this.status = status;
         this.budget = budget;
+        this.userId = userId;
         //this.name = "chante'"; //we are createing an id to each message that is sent to the server
     }
 }
